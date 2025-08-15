@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "SyqB0UsKEDg=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\JIANG\\RiderProjects\\minimal-api-dio\\minimal-api-dio.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\JIANG\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.19\\microsoft.netcore.app.ref.8.0.19.nupkg.sha512",
+    "C:\\Users\\JIANG\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.19\\microsoft.windowsdesktop.app.ref.8.0.19.nupkg.sha512",
+    "C:\\Users\\JIANG\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.19\\microsoft.aspnetcore.app.ref.8.0.19.nupkg.sha512",
+    "C:\\Users\\JIANG\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.19\\microsoft.netcore.app.host.win-x64.8.0.19.nupkg.sha512"
+  ],
+  "logs": []
+}
