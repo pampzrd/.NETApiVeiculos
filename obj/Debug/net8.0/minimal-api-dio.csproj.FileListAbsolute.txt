@@ -25,3 +25,4 @@ C:\Users\JIANG\RiderProjects\minimal-api-dio\obj\Debug\net8.0\refint\minimal-api
 C:\Users\JIANG\RiderProjects\minimal-api-dio\obj\Debug\net8.0\minimal-api-dio.pdb
 C:\Users\JIANG\RiderProjects\minimal-api-dio\obj\Debug\net8.0\minimal-api-dio.genruntimeconfig.cache
 C:\Users\JIANG\RiderProjects\minimal-api-dio\obj\Debug\net8.0\ref\minimal-api-dio.dll
+C:\Users\JIANG\RiderProjects\minimal-api-dio\obj\Debug\net8.0\minimal-api-dio.sourcelink.json

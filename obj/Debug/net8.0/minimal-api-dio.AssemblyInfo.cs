@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("minimal-api-dio")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8c1c1881ecdee5510a148b691d46705aff1e38fc")]
 [assembly: System.Reflection.AssemblyProductAttribute("minimal-api-dio")]
 [assembly: System.Reflection.AssemblyTitleAttribute("minimal-api-dio")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
